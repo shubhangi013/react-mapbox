@@ -36,7 +36,7 @@ function App() {
       Longitude: {longitude} | Latitude: {lattitude} | Zoom: {zoom}
       </div>
       <div ref={mapContainer} className="map-container" >
-      {/* <img alt="image" className="image" src="https://d32dm0rphc51dk.cloudfront.net/djRGFjQJuoXI1NX9Yr0pNA/square.jpg"></img> */}
+      <img alt="image" className="image" src="https://d32dm0rphc51dk.cloudfront.net/djRGFjQJuoXI1NX9Yr0pNA/square.jpg"></img>
       </div>
       </div>
       );

@@ -28,9 +28,10 @@ code {
   border-radius: 4px;
 }
 
-/* .image{
+.image{
   z-index: 1000;
   left: 10vh;
   right:10vw;
+  position: absolute;
 
-} */
+}
